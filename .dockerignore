@@ -1,0 +1,6 @@
+.git
+.github
+[0-9].png
+__pycache__
+*.md
+compose.yaml
